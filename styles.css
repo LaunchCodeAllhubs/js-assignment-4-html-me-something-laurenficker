@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+body {
+	margin: 8px;
+    display: block;
+    font: Roboto;
+    padding: 10px 20px;
+    background-color: black;
+    font-family: Roboto;
+}
+
+article {
+    border-style: ridge;
+    background-color: lightcyan;
+    margin: 25px;
+    padding-bottom: 3%;
+}
+
+h1, h2, h3, p, ul {
+    text-align: center;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#subtitle, footer {
+    color: white;
+}
+
